@@ -23,7 +23,7 @@
 - ✨ Open to collaborate on **Flutter open-source projects**
 - 📍 From **New Cairo, Egypt**
 - 🙌 My goal: **Build impactful cross-platform apps**
-- 📧 Reach me: **omar.mohamed13245678@gmail.com**
+- 📧 Reach me: **omar.mohamed.flutter@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/omar-shawkey-07044b300)
 
 ---
@@ -43,7 +43,7 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:omar.mohamed13245678@gmail.com" target="_blank">
+  <a href="mailto:omar.mohamed.flutter@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" height="30" width="30"/>
   </a>
   <a href="https://www.linkedin.com/in/omar-shawkey-07044b300" target="_blank">
