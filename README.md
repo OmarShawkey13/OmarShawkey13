@@ -99,4 +99,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Be+the+best+version+of+yourself." alt="Quote by Omar Shawkey" />
 </p>
 
-<p align="center"><b>— Omar Shawkey</b></p>
+<p align="center"><b>— Omar Shawkey —</b></p>
