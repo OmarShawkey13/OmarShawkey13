@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4db8ff">Omar Shawkey</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4db8ff;">Omar Shawkey</span></h1>
 <br>
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmarShawkey13&label=Profile%20views&color=4db8ff&style=flat" alt="OmarShawkey13" />
+  <img src="https://komarev.com/ghpvc/?username=OmarShawkey13&label=Profile%20views&color=4db8ff&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ## 👀 About Me
 
-- 👷️ I’m currently working on **cool and scalable Flutter apps**
+- 👷‍♂️ I’m currently working on **cool and scalable Flutter apps**
 - 🎓 Learning more about **Clean Architecture, Firebase, and state management**
 - ✨ Open to collaborate on **Flutter open-source projects**
 - 📍 From **New Cairo, Egypt**
@@ -28,46 +28,59 @@
 
 ---
 
+## 🧠 Currently Learning
+
+- Clean Architecture for Flutter  
+- Bloc & Riverpod  
+- Firebase Cloud Functions  
+- Flutter Web Optimization  
+
+---
+
 ## 🌟 Tech Stack
 
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🎬 [**RCStore Flutter App**](https://github.com/OmarShawkey13/rcstore) — A modern cross-platform app for mods & tools.  
+- 🍽️ [**Restaurant Website**](https://github.com/OmarShawkey13/restaurant) — Dynamic menu, offers, and Firestore integration.  
+- 🎥 [**Movies Environment**](https://github.com/OmarShawkey13/movies_env) — Structured JSON-based media manager.  
 
 ---
 
 ## 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:omar.mohamed.flutter@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" height="30" width="30"/>
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/omar-shawkey-07044b300" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="30" width="30"/>
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/7804702/omar-mohamed" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="stackoverflow" height="30" width="30"/>
+    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="30" width="30"/>
   </a>
 </p>
 
 ---
 
-## 🌟 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarShawkey13&show_icons=true&theme=tokyonight&locale=en" alt="Omar GitHub Stats" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarShawkey13&theme=tokyonight" alt="Omar GitHub Streak" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarShawkey13&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarShawkey13&show_icons=true&theme=tokyonight" width="33%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarShawkey13&theme=tokyonight" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarShawkey13&layout=compact&theme=tokyonight" width="30%">
 </p>
 
 ---
@@ -87,4 +100,3 @@
 </p>
 
 <p align="center"><b>— Omar Shawkey</b></p>
-
