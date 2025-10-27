@@ -61,30 +61,6 @@
 
 ---
 
-<!-- FEATURED PROJECTS with clean cards-style links -->
-## 🚀 Featured Projects
-
-- 🎬 **RCStore Flutter App** — A modern cross-platform app for mods & tools.  
-  👉 <a href="https://github.com/OmarShawkey13/rcstore"><b>Repository</b></a>
-
-- 🍽️ **Restaurant Website** — Dynamic menu, offers, and Firestore integration.  
-  👉 <a href="https://github.com/OmarShawkey13/restaurant"><b>Repository</b></a>
-
-- 🎥 **Movies Environment** — Structured JSON-based media manager.  
-  👉 <a href="https://github.com/OmarShawkey13/movies_env"><b>Repository</b></a>
-
-<!-- Pinned repo cards inspired by foreign design -->
-<p align="center">
-  <a href="https://github.com/OmarShawkey13/rcstore">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarShawkey13&repo=rcstore&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/OmarShawkey13/restaurant">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarShawkey13&repo=restaurant&theme=tokyonight"/>
-  </a>
-</p>
-
----
-
 <!-- SOCIAL LINKS (clean line + icons) -->
 ## 🔗 Connect with Me
 
