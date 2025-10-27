@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4db8ff;">Omar Shawkey</span></h1>
-<br>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm <span style="background: linear-gradient(90deg, #4db8ff, #ff77b7); -webkit-background-clip: text; color: transparent;">Omar Shawkey</span></h1>
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4DB8FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;I+build+Flutter+apps+with+passion.">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=4DB8FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Welcome+to+my+GitHub+profile!;I+build+Flutter+apps+with+passion." alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,11 +13,12 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100"/>
 </div>
 
 ---
 
+<!-- ABOUT ME -->
 ## 👀 About Me
 
 - 👷‍♂️ I’m currently working on **cool and scalable Flutter apps**
@@ -24,10 +27,13 @@
 - 📍 From **New Cairo, Egypt**
 - 🙌 My goal: **Build impactful cross-platform apps**
 - 📧 Reach me: **omar.mohamed.flutter@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/omar-shawkey-07044b300)
+- 🔗 <a href="https://www.linkedin.com/in/omar-shawkey-07044b300">LinkedIn</a>
+
+> <em>Note:</em> Some of my best work lives in private repos. Public projects reflect what I can share while helping others.
 
 ---
 
+<!-- CURRENTLY LEARNING -->
 ## 🧠 Currently Learning
 
 - Clean Architecture for Flutter  
@@ -37,6 +43,7 @@
 
 ---
 
+<!-- TECH STACK (badges + icons row like the foreign design) -->
 ## 🌟 Tech Stack
 
 <p align="center">
@@ -47,16 +54,38 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+<!-- Optional icon row for visual flair (borrowed from foreign style) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,postman" />
+</p>
+
 ---
 
+<!-- FEATURED PROJECTS with clean cards-style links -->
 ## 🚀 Featured Projects
 
-- 🎬 [**RCStore Flutter App**](https://github.com/OmarShawkey13/rcstore) — A modern cross-platform app for mods & tools.  
-- 🍽️ [**Restaurant Website**](https://github.com/OmarShawkey13/restaurant) — Dynamic menu, offers, and Firestore integration.  
-- 🎥 [**Movies Environment**](https://github.com/OmarShawkey13/movies_env) — Structured JSON-based media manager.  
+- 🎬 **RCStore Flutter App** — A modern cross-platform app for mods & tools.  
+  👉 <a href="https://github.com/OmarShawkey13/rcstore"><b>Repository</b></a>
+
+- 🍽️ **Restaurant Website** — Dynamic menu, offers, and Firestore integration.  
+  👉 <a href="https://github.com/OmarShawkey13/restaurant"><b>Repository</b></a>
+
+- 🎥 **Movies Environment** — Structured JSON-based media manager.  
+  👉 <a href="https://github.com/OmarShawkey13/movies_env"><b>Repository</b></a>
+
+<!-- Pinned repo cards inspired by foreign design -->
+<p align="center">
+  <a href="https://github.com/OmarShawkey13/rcstore">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarShawkey13&repo=rcstore&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/OmarShawkey13/restaurant">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarShawkey13&repo=restaurant&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
 
+<!-- SOCIAL LINKS (clean line + icons) -->
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -75,24 +104,55 @@
 
 ---
 
+<!-- STATS SECTION (balanced layout like the foreign design) -->
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarShawkey13&show_icons=true&theme=tokyonight" width="33%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarShawkey13&theme=tokyonight" width="33%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarShawkey13&layout=compact&theme=tokyonight" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarShawkey13&show_icons=true&theme=tokyonight" width="33%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarShawkey13&theme=tokyonight" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarShawkey13&layout=compact&theme=tokyonight" width="30%"/>
 </p>
 
----
+<!-- Summary cards & activity graph borrowed tastefully -->
+<div align="center">
 
-## 🏆 GitHub Trophies
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarShawkey13&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarShawkey13&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarShawkey13&theme=github_dark&utcOffset=+3" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarShawkey13&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarShawkey13&theme=github_dark" />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OmarShawkey13&theme=tokyonight&row=1&no-bg=true&margin-w=20" />
 </p>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarShawkey13&bg_color=0d1117&color=ffffff&line=4db8ff&point=fff7e0&area=true&hide_border=true" alt="activity graph"/>
+</a>
+
+</div>
+
 ---
 
+<!-- RECENT ACTIVITY (manual or via action) -->
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- If you activate the activity workflow, it will auto-populate here -->
+<!--END_SECTION:activity-->
+
+---
+
+<!-- OPTIONAL: BLOG/ARTICLES placeholder (omit if none) -->
+<!--
+### :memo: Latest Articles
+- [Title](#)
+- [Title](#)
+-->
+
+---
+
+<!-- QUOTE / CTA -->
 <h2 align="center">💬 Quote I live by</h2>
 
 <p align="center">
@@ -100,3 +160,15 @@
 </p>
 
 <p align="center"><b>— Omar Shawkey —</b></p>
+
+---
+
+<!-- FOOTER NOTE: compact callout like the foreign design -->
+<p align="center">
+  <a href="https://github.com/OmarShawkey13?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
+
+<p align="center"><i>Want collaboration or high‑quality Flutter code? Reach out via email or LinkedIn.</i></p>
+
