@@ -27,7 +27,7 @@
 - 📍 From **New Cairo, Egypt**
 - 🙌 My goal: **Build impactful cross-platform apps**
 - 📧 Reach me: **omar.mohamed.flutter@gmail.com**
-- 🔗 <a href="https://www.linkedin.com/in/omar-shawkey-07044b300">LinkedIn</a>
+- 🔗 <a href="https://www.linkedin.com/in/omarshawkey/">LinkedIn</a>
 
 > <em>Note:</em> Some of my best work lives in private repos. Public projects reflect what I can share while helping others.
 
@@ -69,7 +69,7 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/omar-shawkey-07044b300" target="_blank">
+  <a href="https://www.linkedin.com/in/omarshawkey/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
   </a>
   &nbsp;&nbsp;
