@@ -1,73 +1,88 @@
 # 👋 Hi, I’m Omar Shawkey
 
-Flutter Developer specialized in building **mobile & web applications** using clean, scalable, and production-ready architectures.  
-I focus on writing maintainable code, modern UI/UX, and real-world solutions.
+Flutter Developer focused on building **high-quality mobile & web applications** using clean, scalable, and production-ready architectures.  
+I care deeply about **code quality, maintainability, and modern UI/UX**, and I enjoy turning real-world ideas into solid products.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🟣 Piko — Real-Time Chat Application
-A full-featured real-time chat app built with **Flutter** and **Firebase**, designed to simulate production-level messaging systems.
+A production-oriented real-time chat application built with **Flutter** and **Firebase**, designed to reflect real-world messaging systems.
 
-**Highlights**
+**Key Highlights**
 - Real-time 1-on-1 & group messaging
 - Media sharing & push notifications
-- Firebase Authentication & Firestore
-- Bloc state management
-- Clean Architecture
+- Firebase Authentication & Cloud Firestore
+- Bloc for state management
+- Clean Architecture with clear separation of concerns
 
-🔗 Repository:  
+🔗 Repository  
 https://github.com/OmarShawkey13/piko
 
 ---
 
 ### 🔵 Ripple — Social Media Platform
-A modern social media application inspired by real-world platforms, focusing on scalability and architecture.
+A modern social media application inspired by real platforms, focusing on **scalability, architecture, and user interaction**.
 
-**Highlights**
+**Key Highlights**
 - Posts, likes, comments & follow system
 - Real-time notifications
-- MVVM architecture
-- Riverpod state management
-- Clean & modular codebase
+- MVVM-based architecture
+- Riverpod for state management
+- Modular and maintainable codebase
 
-🔗 Repository:  
+🔗 Repository  
 https://github.com/OmarShawkey13/ripple
 
 ---
 
 ### 🟢 Newsly — News Application
-A clean and fast news application consuming real APIs with strong focus on UX and performance.
+A clean and performant news application consuming real APIs, with strong focus on **UX, performance, and architecture**.
 
-**Highlights**
+**Key Highlights**
 - REST API integration
 - Category-based news browsing
-- Clean Architecture
+- Clean Architecture principles
 - Error handling & loading states
-- Responsive UI
+- Responsive UI for different screen sizes
 
-🔗 Repository:  
+🔗 Repository  
 https://github.com/OmarShawkey13/newsly
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills & Technologies
 
-- **Flutter / Dart**
-- Bloc / Riverpod
-- Firebase (Auth, Firestore, Cloud Messaging)
-- REST APIs
+### 💻 Mobile & Web Development
+- Flutter (Mobile & Web)
+- Dart
+- Responsive UI & adaptive layouts
+
+### 🧠 Architecture & State Management
 - Clean Architecture
+- Bloc / Cubit
+- Riverpod
+- MVVM principles
+
+### 🔗 Backend & Integrations
+- Firebase Authentication
+- Cloud Firestore
+- Cloud Messaging (Push Notifications)
+- RESTful APIs
+
+### 🛠 Tools & Workflow
 - Git & GitHub
-- Responsive UI (Mobile & Web)
+- Modular project structure
+- Reusable UI components
+- Performance & code optimization
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/omar-shawkey
-- 🧑‍💻 GitHub: https://github.com/OmarShawkey13
+- 💼 LinkedIn: https://www.linkedin.com/in/omar-shawkey  
+- 🧑‍💻 GitHub: https://github.com/OmarShawkey13  
 
 ---
 
