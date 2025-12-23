@@ -110,6 +110,21 @@
 
 ---
 
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Piko](https://github.com/OmarShawkey13/piko)** | A scalable Flutter project | Flutter, Dart |
+| **[Ripple](https://github.com/OmarShawkey13/ripple)** | Real-time collaboration features | Flutter, Firebase |
+| **[Newsly](https://github.com/OmarShawkey13/newsly)** | News aggregation application | Flutter, REST API |
+
+</div>
+
+---
+
 <!-- RECENT ACTIVITY (manual or via action) -->
 ### :zap: Recent Activity
 
