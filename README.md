@@ -23,6 +23,7 @@
 Flutter Developer focused on building **scalable, production-ready** mobile applications using Clean Architecture, Bloc/Cubit, and Firebase.
 
 - 👷 **Current Focus:** Modular framework layers for cross-platform apps
+- 💼 **Experience:** Freelance Flutter Developer (Sep 2024 – Present)
 - 🏗️ **Architecture Driven:** Clean Architecture, Feature-Based, TDD
 - 📍 **Location:** New Cairo, Egypt
 - 🎯 **Goal:** Bridge premium design with bulletproof performance
@@ -142,17 +143,17 @@ Categorised wallpapers with infinite scroll, image editing (crop, blur), caching
 
 ## 🎓 Education & Certifications
 
-**Al-Alsun Higher Institute** — BSc in Business Information Systems *(2023 – Present)*
+**Al-Alsun Higher Institute** — BSc in Business Information Systems *(2023 – Present)*[cite: 1]
 
-📜 **Flutter & Dart - Build iOS and Android Apps** — Udemy *(42+ hours)*
-> Flutter development · Dart fundamentals · Firebase integration · Bloc/Cubit architecture
+📜 **Flutter & Dart - Build iOS and Android Apps** — Udemy *(42+ hours)*[cite: 1]
+> Flutter development · Dart fundamentals · Firebase integration · Bloc/Cubit architecture[cite: 1]
 
 ---
 
 ## 🌐 Languages
 
-![Arabic](https://img.shields.io/badge/Arabic-Native-185FA5?style=flat-square)
-![English](https://img.shields.io/badge/English-Professional_Working-0F6E56?style=flat-square)
+![Arabic](https://img.shields.io/badge/Arabic-Native-185FA5?style=flat-square)[cite: 1]
+![English](https://img.shields.io/badge/English-Professional_Working-0F6E56?style=flat-square)[cite: 1]
 
 ---
 
