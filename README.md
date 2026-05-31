@@ -106,7 +106,8 @@ Posts, comments, likes, and follow system with push notifications and predictabl
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![OneSignal](https://img.shields.io/badge/-OneSignal-E54B4B?style=flat-square)
+![Bloc](https://img.shields.io/badge/-Bloc%2FCubit-0175C2?style=flat-square)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
